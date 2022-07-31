@@ -4,7 +4,7 @@ var Service = require('node-windows').Service;
 var svc = new Service({
   name:'GetMailAPI',
   description: 'The nodejs.org get mail API.',
-  script: 'D:\\Bravo\\Other_Project\\GetMailListener2\server.js'
+  script: 'D:\\Bravo\\Other_Project\\GetMailListener2\\server.js'
 });
 
 // Listen for the "install" event, which indicates the

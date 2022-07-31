@@ -1,0 +1,4 @@
+2022-07-31 09:45:36 - Starting C:\Program Files\nodejs\node.exe  D:\Bravo\Other_Project\GetMailListener2\node_modules\node-windows\lib\wrapper.js --file D:\Bravo\Other_Project\GetMailListener2\server.js --scriptoptions= --log "GetMailAPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-31 09:45:36 - Started 11628
+2022-07-31 09:45:55 - Starting C:\Program Files\nodejs\node.exe  D:\Bravo\Other_Project\GetMailListener2\node_modules\node-windows\lib\wrapper.js --file D:\Bravo\Other_Project\GetMailListener2\server.js --scriptoptions= --log "GetMailAPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-31 09:45:55 - Started 15576

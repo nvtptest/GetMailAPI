@@ -1,0 +1,30 @@
+<service>
+	<id>getmailapi.exe</id>
+	<name>GetMailAPI</name>
+	<description>The nodejs.org get mail API.</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<argument>D:\Bravo\Other_Project\GetMailListener2\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>D:\Bravo\Other_Project\GetMailListener2\server.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>GetMailAPI wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>false</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>PHONGNVT</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>D:\Bravo\Other_Project\GetMailListener2</workingdirectory>
+</service>
