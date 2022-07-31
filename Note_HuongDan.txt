@@ -1,0 +1,12 @@
+- Download NodeJs: https://nodejs.org/en/download/
+- Run Cmd: 
+cd C:\DATA\BravoMan8\GetMailAPI\bravo-api-ptsp
+npm install node-windows
+node RunAppWindowService.js
+
+
+**3 dong tren moi dong la 1 lenh cmd
+Luu y: RunAppWindowService.js phai sua lai duong dan de tao Service Windows
+
+=> Chay xong se co duong dan dang: http://localhost:8099
+trong do, port 8099: setup sua lai file www trong C:\DATA\BravoMan8\GetMailAPI\bravo-api-ptsp\bin\www 
