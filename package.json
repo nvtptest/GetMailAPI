@@ -1,0 +1,16 @@
+{
+  "name": "getmaillistener2",
+  "version": "1.0.0",
+  "description": "Get mail",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "PhongNVT",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mail-listener2": "^0.3.1"
+  }
+}
